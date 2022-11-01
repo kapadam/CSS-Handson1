@@ -1,0 +1,24 @@
+.text1 {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.text2 {
+    background-color: yellow;
+    font-weight:bold;
+
+}
+ol{
+    color:brown;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+}
+p{
+    color: brown;
+}
+#list{
+    color: brown;
+    letter-spacing: 4px;
+}
